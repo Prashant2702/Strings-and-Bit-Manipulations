@@ -1,0 +1,39 @@
+...Bit Manipulation...
+Get i
+th bit:
+Mask: Right shift n ‘i’ times, and check the first bit.
+
+Set i
+th bit:
+Mask: 1 << i
+Bitwise OR operation between n and mask sets the i
+
+th bit to one.
+
+Clear i
+th bit
+Mask: ~ (1 << i )
+In the mask, all the bits would be one, except the i
+
+th bit. Taking bitwise AND with n
+
+would clear the i
+th bit.
+
+Toggle i
+th bit
+Mask: 1 << i
+Bitwise XOR operation between n and mask toggle the i
+th bit.
+
+Update i’th bit to the given value
+Mask: mask has all the bits set to one except i
+th bit.
+
+n = n & mask, i
+
+th bit is cleared.
+
+Now, to set i
+
+th bit to value, we take value << pos as the mask.
