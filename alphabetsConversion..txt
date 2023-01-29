@@ -1,0 +1,5 @@
+...Strings conversion...
+In these program we are going to convert the strings uppercase to lowercase and vice- versa.
+Here,we can done this by using the simple method in which we are going to apply the for loop
+and we also done this with the help of the transform which helps to convert into the upper case 
+as well as lowercase alphabets.

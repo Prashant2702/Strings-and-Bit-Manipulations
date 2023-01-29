@@ -1,0 +1,3 @@
+...To print the maximum number of the alphabet in an string...
+In these program we are going to print the number of times the maximum number of the alphabet is used in an string..
+we can done this using the for loops.

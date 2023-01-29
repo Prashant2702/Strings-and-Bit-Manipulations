@@ -1,0 +1,4 @@
+...Form the biggest Number from the Numeric string...
+In these program we are going to form the biggest numbber possible from the numeric strings.
+as we include algorithim header file in which all the sorting and many more sort are available
+so we use sort function which helps to sort the number and put them into the descending order.
