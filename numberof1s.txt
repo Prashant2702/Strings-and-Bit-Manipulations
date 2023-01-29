@@ -1,0 +1,6 @@
+...Number of ones...
+Count set bits
+n & (n - 1) sets the first set-bit to zero.
+Explanation: n = XXX100
+n - 1 = XXX011
+n & ( n - 1 ) = XXX000

@@ -1,0 +1,12 @@
+...Subset of a set...
+
+Generate Subset
+Explanation: if the j
+
+th bit is set, then we take the j
+
+th element.
+
+There are a total of 2
+
+n subsets. 
