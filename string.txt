@@ -1,0 +1,5 @@
+...Append the two strings...
+append(): Inserts additional characters at the end of the string (can also be
+done using ‘+’ or ‘+=’ operator). Its time complexity is O(N) where N is the
+size of the new string.
+we used in these program to append the two strings.

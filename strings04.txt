@@ -1,0 +1,7 @@
+...Sorting a string... 
+To sort a string, we need to include a header file known as
+algorithm in our code like this
+#include<algorithim>
+Then we can use sort() function that is present in above header file on our string.
+Sort() function takes 2 arguments viz. iterator to start of the string and iterator to
+end of the string.
