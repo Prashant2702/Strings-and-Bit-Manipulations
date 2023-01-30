@@ -1,0 +1,4 @@
+...a unique number in an array where all numbers except one, are present twice...
+Hint: A ⊕ B ⊕ B ⊕ A ⊕ C = C. All those numbers which occur twice will get nullified
+after ⊕ operation.
+We can done this by using the above approuch.
